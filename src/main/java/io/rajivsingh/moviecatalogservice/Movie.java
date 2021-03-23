@@ -25,6 +25,6 @@ public class Movie {
 	public void setMovieId(String movieId) {
 		this.movieId = movieId;
 	}
-	
+	//commit 1
 	
 }
